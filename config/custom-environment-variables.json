@@ -1,0 +1,11 @@
+{
+    "app": {
+        "baseUri": "HOST URI",
+        "appId": "TEAMS APP ID",
+        "instrumentationKey": "APPINSIGHTS_INSTRUMENTATIONKEY"
+    },
+    "bot": {
+        "appId": "BOT APP ID",
+        "appPassword": "Dy*TU-B.6Ww?qz7vnrG2TV6MErbTigh+"
+    }
+}

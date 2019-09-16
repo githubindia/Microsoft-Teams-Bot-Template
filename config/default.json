@@ -1,0 +1,7 @@
+{
+    "bot": {
+        "appId": "BOT APP ID",
+        "appPassword": "BOT PASSWORD"
+    },
+    "storage": "memory"
+}
